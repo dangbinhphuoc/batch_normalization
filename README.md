@@ -1,1 +1,1 @@
-# batch_normalization
+# Batch Normalization
